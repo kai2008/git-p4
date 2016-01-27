@@ -1,0 +1,3 @@
+[submodule "bar2"]
+	path = bar2
+	url = git@ksong-p4gf2:bar2.git

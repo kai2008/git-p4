@@ -4,3 +4,6 @@
 [submodule "baz8"]
 	path = baz8
 	url = git@ksong-p4gf2:baz8.git
+[submodule "bar8"]
+	path = bar8
+	url = git@ksong-p4gf2:bar8.git
